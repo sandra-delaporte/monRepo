@@ -2,8 +2,8 @@
 <html>
 
   <head>
-
-    <meta charset="b1"> 
+	B2 contre attaque
+    <meta charset="b1b2"> 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>La maison de l'architecte</title>
