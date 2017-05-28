@@ -3,7 +3,7 @@
 
   <head>
 
-    <meta charset="utf-8"> 
+    <meta charset="b2"> 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>La maison de l'architecte</title>
@@ -14,7 +14,7 @@
     <link href='http://fonts.googleapis.com/css?family=Bitter' rel='stylesheet' type='text/css'>
 
    
-   oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+   oss.maxcdn.comb2/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 
     <style type="text/css"> 
