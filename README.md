@@ -3,7 +3,7 @@
 
   <head>
 
-    <meta charset="utf-8"> 
+    <meta charset="b1"> 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>La maison de l'architecte</title>
@@ -22,7 +22,7 @@
       /* Styles de base */
     
       nav img {
-        width: 100%;
+        width: b1;
       }
 
       /* Bandeau */
