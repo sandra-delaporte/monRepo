@@ -2,13 +2,13 @@
 <html>
 
   <head>
-    <meta charset="b1"> 
+    <meta charset="utf-8"> 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>La maison de l'architecte</title>
     <meta name="description" content="Le site de la maison de l'architecture">
 
-    <b1 href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
     <link href='http://fonts.googleapis.com/css?family=Bitter' rel='stylesheet' type='text/css'>
 
@@ -21,7 +21,7 @@
       /* Styles de base */
     
       nav img {
-        width: b1;
+        width: 100%;
       }
 
       /* Bandeau */
